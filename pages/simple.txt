@@ -1,0 +1,3 @@
+Flappy bird!
+Welcome to flappy bird!
+Here will be the game.
